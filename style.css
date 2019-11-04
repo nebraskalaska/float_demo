@@ -1,0 +1,25 @@
+body, * {
+	box-sizing: border-box;
+}
+
+section {
+	width: 90%;
+	margin: 60px auto;
+	border: 2px solid black;
+	padding: 40px;
+	height: 50vh;
+}
+
+
+.box {
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	padding: 20px;
+}
+
+.pink { background-color: pink; }
+
+.aqua { background-color: aqua; }
+
+.lime { background-color: lime; }
