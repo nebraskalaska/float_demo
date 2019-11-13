@@ -18,8 +18,19 @@ section {
 	padding: 20px;
 }
 
-.pink { background-color: pink; }
+.pink { 
+
+	background-color: pink;
+ }
 
 .aqua { background-color: aqua; }
 
 .lime { background-color: lime; }
+
+hr {
+	position: absolute;
+	top: 100px;
+	left: -60px;
+	display: inline-block;
+	width: 400px;
+}
